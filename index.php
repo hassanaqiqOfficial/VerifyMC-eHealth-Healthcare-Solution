@@ -7,7 +7,6 @@ define("DBNAME","app_telehealth");
 
 define("ROOTDIR",$_SERVER["DOCUMENT_ROOT"]."/applications/apptelehealth/");
 
-echo "Hello Hassan @";
 
 /**
  * CodeIgniter
